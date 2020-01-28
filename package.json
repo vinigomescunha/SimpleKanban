@@ -4,6 +4,7 @@
   "description": "# Adonis Simple Kanban",
   "main": "index.js",
   "scripts": {
+    "preinstall": "cd KANBAN && npm i",
     "adonis-new": "adonis new $APP",
     "start": "cd KANBAN && npm start",
     "test": "cd KANBAN && npm test"

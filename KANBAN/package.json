@@ -5,8 +5,7 @@
   "description": "The fullstack application boilerplate for Adonisjs",
   "main": "index.js",
   "scripts": {
-    "start": "adonis migration:run && node server.js",
-    "test": "node ace test"
+    "start": "adonis migration:run && node server.js"
   },
   "keywords": [
     "adonisjs",

@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinigomescunha/SimpleKanban/issues"
   },
-  "homepage": "https://github.com/vinigomescunha/SimpleKanban#readme"
+  "homepage": "https://github.com/vinigomescunha/SimpleKanban#readme",
+  "devDependencies": {
+    "@adonisjs/cli": "^4.0.12"
+  }
 }

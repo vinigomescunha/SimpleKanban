@@ -36,3 +36,9 @@ https://adonisjs.com/docs/4.0/number-guessing-game#_http_controller
 adonis make:controller kanbanCards
 adonis make:controller KanbanTasks
 
+https://adonisjs.com/docs/4.1/routing
+
+
+
+
+

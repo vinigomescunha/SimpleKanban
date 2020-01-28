@@ -6,6 +6,10 @@ npm i
 
 APP=KANBAN npm run adonis-new 
 
+npm start
+
+http://localhost:3333
+
 ## Adonis Default
 
 npm i -g @adonisjs/cli

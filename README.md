@@ -1,14 +1,18 @@
 # SimpleKanban
 
-## Generate 
+Using AdonisJs ( https://adonisjs.com/ ) and sqlite
+
+## How To 
 
 npm i
-
-APP=KANBAN npm run adonis-new 
 
 npm start
 
 http://localhost:3333
+
+# Generate
+
+APP=KANBAN npm run adonis-new 
 
 ## Adonis Default
 
@@ -31,5 +35,4 @@ https://adonisjs.com/docs/4.0/number-guessing-game#_http_controller
 
 adonis make:controller kanbanCards
 adonis make:controller KanbanTasks
-
 

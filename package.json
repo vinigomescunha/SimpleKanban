@@ -4,6 +4,7 @@
   "description": "# Adonis Simple Kanban",
   "main": "index.js",
   "scripts": {
+    "adonis-new": "adonis new $APP",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

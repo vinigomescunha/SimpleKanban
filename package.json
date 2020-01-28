@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "adonis-new": "adonis new $APP",
+    "start": "cd KANBAN && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

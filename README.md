@@ -6,6 +6,8 @@ Using AdonisJs ( https://adonisjs.com/ ) and sqlite
 
 npm i
 
+copy KANBAN/.env.example to KANBAN/.env
+
 npm start
 
 http://localhost:3333
